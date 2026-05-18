@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Automower.Aspire.AppHost/Automower.Aspire.AppHost.csproj" />
+  <Project Path="src/Automower.Aspire.ServiceDefault/Automower.Aspire.ServiceDefault.csproj" />
+</Solution>
