@@ -9,13 +9,14 @@
       "Bash(aspire *)",
       "PowerShell(dotnet *)",
       "PowerShell(git *)",
-      "PowerShell(aspire *)"
+      "PowerShell(aspire *)",
+      "PowerShell(gh *)"
     ]
   },
   "enabledMcpjsonServers": [
     "aspire",
     "dxdocs",
-    "msdocs",
-    "azure-devops-burning-box"
+    "msdocs"
+
   ]
 }

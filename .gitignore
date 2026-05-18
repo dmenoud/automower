@@ -391,6 +391,9 @@ FodyWeavers.xsd
 # Built Visual Studio Code Extensions
 *.vsix
 
+# Claude Code local settings
+.claude/settings.local.json
+
 ## Windows / macOS OS files
 Thumbs.db
 ehthumbs.db
